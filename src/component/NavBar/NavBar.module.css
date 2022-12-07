@@ -1,0 +1,12 @@
+.NavBar{
+    grid-area: n;
+    background-color: aqua;
+    text-align: center ; 
+   }
+ .item {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+ }   
+ .active{
+   color: blue;
+ }

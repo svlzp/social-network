@@ -1,0 +1,16 @@
+.Heder{
+    grid-area: h;
+    background-color: rgb(60, 255, 0);
+    }
+    .Heder img {
+      width: 60px;
+    }
+    .login{
+      float: right;
+    }
+    .myButton{
+      cursor: pointer;
+    }
+    .ava{
+      width: 10%;
+    }

@@ -1,0 +1,23 @@
+.data{
+    text-align: center;
+    
+}
+.myError{
+    color: red;
+}
+.contacts{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 160px;
+}
+.form{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.ava{
+    margin-top: 10px;
+    margin-left: 50px;
+}

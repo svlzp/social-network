@@ -1,0 +1,18 @@
+.header{
+    text-align: center;
+    
+}
+.imgBlock{
+    
+    
+    width:600px;
+}
+.img{
+    margin-left: 20px;
+    width: 40%;
+    height: 40%;
+}
+.text{
+    margin-left: 10px;
+    margin-right: 10px;
+}

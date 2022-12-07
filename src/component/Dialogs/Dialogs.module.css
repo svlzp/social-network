@@ -1,0 +1,22 @@
+.Dialogs{
+    display: grid;
+
+    grid-template-columns: 2fr 10fr ;
+}
+.DialogsItem{
+    padding: 10px;
+    
+}
+.messages{
+    padding: 10px;
+}
+.dialog{
+    color: blueviolet;
+}
+.item{
+    color: black;
+    text-decoration: none;
+}
+.myError{
+    color: red;
+}

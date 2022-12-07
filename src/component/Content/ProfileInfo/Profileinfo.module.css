@@ -1,0 +1,14 @@
+.ProfileInfo{
+    display: grid;
+    grid-template-columns: 2fr 10fr ;
+}
+.ava img{
+    width: 100px;
+    border-radius: 10% ;
+}    
+.ava{
+    padding-top: 18px;
+}
+.pictures{
+    margin-top: 1px;
+}
