@@ -1,3 +1,7 @@
+
+Login v.terem@yahoo.com
+password qwerty321
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
