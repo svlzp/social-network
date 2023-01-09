@@ -3,6 +3,7 @@
         import s from './Dialogs.module.css'
         import { Formik, Form, Field, ErrorMessage, FormikErrors} from 'formik';
         import { DialogsDataType, messageDataType } from '../../redux/messageReducer';
+        import { Button, Divider, message, Space, Tabs } from 'antd';
         
         type propsMessageType={
             DialogsData:Array<DialogsDataType>
