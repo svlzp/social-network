@@ -1,6 +1,5 @@
 
-Login v.terem@yahoo.com
-password qwerty321
+
 
 # Getting Started with Create React App
 
